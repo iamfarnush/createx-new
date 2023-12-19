@@ -1,0 +1,213 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 180px;
+}
+
+.a1 {
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+}
+
+
+.link3 {
+    margin-top: 10px;
+    text-decoration: none;
+    color: #ff583a;
+    border: solid 2px;
+    border-radius: 3px;
+    padding: 10px;
+    margin-right: 10px;
+    transition: 0.4s;
+}
+
+.link3:hover {
+    background-color: #ff583a;
+    color: white;
+    outline-offset: 4px;
+    outline-color: white;
+}
+
+.link6 {
+    text-decoration: none;
+    color: black;
+}
+.zagalovok{
+    font-size: 15px;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.enjoy{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    padding-top: 10px;
+}
+.ssilkaen{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+    margin-left: 170px;
+    margin-right: 182px;
+}
+.ssilkaen a{
+    text-decoration: none;
+    color: #1E212C;
+}
+.a1{
+    text-decoration: none;
+    color:black ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px
+}
+.search{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 200px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    bottom: 10px;
+}
+.authors{
+   margin-top: 50px;
+   margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+    margin-left: 160px;
+    margin-right: 160px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.images{
+    margin-top: 30px;
+    width: 300px;
+}
+.courseName{
+    border: 1px solid; 
+    background-color: orangered;
+    color: white;
+    border-radius: 7px;
+    margin-left: 80px;
+    margin-right: 80px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+    text-align: center;
+   
+}
+.price{
+    margin-top: 10px;
+    color: #787A80;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1E212C;
+    color: #FFF;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.column1 p {
+    font-size: 9px;
+    width: 250px;
+}
+
+.column1 a {
+    margin-right: 20px;
+}
+
+.column2 {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+}
+
+.column2 a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.column3 {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.column3 a {
+    text-decoration: none;
+    color: white;
+}
+
+.column4 {
+    text-decoration: none;
+    color: white;
+}
+
+.column4 a {
+    text-decoration: none;
+    color: white;
+}
+
+.column4 h3 {
+    padding-bottom: 5px;
+}
+
+.column4 div {
+    padding-top: 8px;
+}
+
+.column5 input {
+    width: 200px;
+    height: 36px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: #3b3f4b;
+    padding-left: 10px;
+}
+
+.column5 p {
+    font-size: 10px;
+}
+.grayDiv{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: #3b3f4b;
+    color: white;
+}
+.grayDiv a{
+text-decoration: none;
+color: white;
+
+}
+.surat{
+    padding-top: 5px;
+}
